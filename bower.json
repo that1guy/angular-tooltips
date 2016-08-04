@@ -16,7 +16,7 @@
     "angular"
   ],
   "main": [
-    "./dist/angular-tooltips.min.js",
+    "./dist/angular-tooltips.js",
     "./dist/angular-tooltips.min.css"
   ],
   "license": "MIT",
